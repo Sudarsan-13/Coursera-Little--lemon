@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link]((https://little-lemon.sudarsan13.me/))
+[Live Demo Link](https://little-lemon.sudarsan13.me/)
 
 ---
 
